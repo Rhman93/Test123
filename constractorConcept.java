@@ -6,6 +6,7 @@ public class constractorConcept {
 	static int b;
 	constractorConcept(){
 		System.out.println("hello every one");
+		System.out.println(My first pull from github )
 	}
 	
 	constractorConcept(int a, int b){
